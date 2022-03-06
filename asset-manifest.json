@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRAZYY/static/css/main.ec6dcf85.css",
+    "main.js": "/CRAZYY/static/js/main.11b70cad.js",
+    "static/js/787.35da8f1a.chunk.js": "/CRAZYY/static/js/787.35da8f1a.chunk.js",
+    "index.html": "/CRAZYY/index.html",
+    "main.ec6dcf85.css.map": "/CRAZYY/static/css/main.ec6dcf85.css.map",
+    "main.11b70cad.js.map": "/CRAZYY/static/js/main.11b70cad.js.map",
+    "787.35da8f1a.chunk.js.map": "/CRAZYY/static/js/787.35da8f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.11b70cad.js"
+  ]
+}
